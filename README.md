@@ -46,3 +46,15 @@ The following are a list of parts that could be used to construct the sumo bot. 
 * $4 Perma-Protoboard: [Adafruit Perma-Proto Half-sized Breadboard PCB](https://www.amazon.com/Adafruit-Perma-Proto-Half-sized-Breadboard-PCB/dp/B00SK8QR8S/ref=sr_1_1?s=electronics&ie=UTF8&qid=1516580453&sr=1-1&keywords=adafruit+perma+proto)
 
 ~ Total: $46
+
+## Pin Assignments
+
+* Ultrasonic
+  * Echo: D2
+  * Trigger: D3
+* Servos
+  * Left: D10
+  * Right: D9
+* Line Following Sensor
+  * Left: A7
+  * Right: A6
